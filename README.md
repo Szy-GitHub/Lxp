@@ -1,4 +1,3 @@
 # Lxp
 First repository!
-by:sds
-by:lxp
+by:sds and lxp
